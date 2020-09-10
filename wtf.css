@@ -6,3 +6,19 @@ font-family: fantasy;
 font-size: 18px;
 color: white;
 }
+
+/* linki */
+a:link
+{
+  color: orange
+}
+
+a:visited
+{
+  color:purple
+}
+
+a:hover
+ {
+   color:red
+ }
